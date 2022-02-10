@@ -1,0 +1,35 @@
+{
+
+"order":[0],
+"lang":["portuguese"],
+"points":[100],
+"positionlabel":[-300,600],
+"framelabel":[0],
+"loses":[0],
+"level":[1],
+"gamestart":[false],
+"gameover":[false],
+"questions":[3],
+
+
+
+"portuguese":[
+
+    { "question":"Qual a Capital do Brasil ?", "answer1":"Brasília" , "answer2":"São Paulo" , "answer3":"Rio de Janeiro" , "answer4":"Minas" , "correctanswer":"Brasília"},
+    { "question":"Qual a Capital de Portugal ?", "answer1":"Porto" , "answer2":"Lisboa" , "answer3":"Aveiro" , "answer4":"Coimbra" , "correctanswer":"Lisboa"},
+    { "question":"Qual a Fórmula da Água ?", "answer1":"H2U" , "answer2":"ah2" , "answer3":"h2O" , "answer4":"h3O" , "correctanswer":"h2O"}
+
+],
+
+"english":[
+
+    { "question":"What is the Capital of Brasil ?", "answer1":"Brasília" , "answer2":"São Paulo" , "answer3":"Rio de Janeiro" , "answer4":"Minas" , "correctanswer":"Brasília"},
+    { "question":"What is the Capital of Portugal ?", "answer1":"Porto" , "answer2":"Lisboa" , "answer3":"Aveiro" , "answer4":"Coimbra" , "correctanswer":"Lisbon"},
+    { "question":"What is the Formula of the Water ?", "answer1":"H2U" , "answer2":"ah2" , "answer3":"h2o" , "answer4":"h3o" , "correctanswer":"h2o"}
+
+]
+
+
+
+}
+
